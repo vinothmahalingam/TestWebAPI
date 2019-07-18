@@ -1,0 +1,14 @@
+D:\Angular\TestWebAPI\bin\Debug\netcoreapp2.2\TestWebAPI.deps.json
+D:\Angular\TestWebAPI\bin\Debug\netcoreapp2.2\TestWebAPI.runtimeconfig.json
+D:\Angular\TestWebAPI\bin\Debug\netcoreapp2.2\TestWebAPI.runtimeconfig.dev.json
+D:\Angular\TestWebAPI\bin\Debug\netcoreapp2.2\TestWebAPI.dll
+D:\Angular\TestWebAPI\bin\Debug\netcoreapp2.2\TestWebAPI.pdb
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.csprojAssemblyReference.cache
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.csproj.CoreCompileInputs.cache
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.RazorAssemblyInfo.cache
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.RazorAssemblyInfo.cs
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.AssemblyInfoInputs.cache
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.AssemblyInfo.cs
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.RazorTargetAssemblyInfo.cache
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.dll
+D:\Angular\TestWebAPI\obj\Debug\netcoreapp2.2\TestWebAPI.pdb
