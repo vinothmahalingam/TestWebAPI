@@ -11,7 +11,7 @@ pipeline {
   }
   stage('Restore PACKAGES') {
    steps {
-    bat "dotnet restore"
+    bat "dotnet restore --configfile NuGet.Config"
    }
   }
   stage('Clean') {
@@ -27,6 +27,11 @@ pipeline {
   stage('Pack') {
    steps {
     bat 'dotnet pack --no-build --output nupkgs'
+   }
+  }
+   stage('Run') {
+   steps {
+    bat 'dotnet run'
    }
   }
  }
