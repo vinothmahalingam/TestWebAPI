@@ -29,9 +29,14 @@ pipeline {
     bat 'dotnet pack --no-build --output nupkgs'
    }
   }
-   stage('Publish') {
+   stage('Publish-QC') {
    steps {
     bat 'dotnet publish --output C:\\inetpub\\wwwroot\\TEstWebAPI'
+   }
+  }
+  stage('Publish-Customer') {
+   steps {
+    bat 'dotnet publish --output C:\\inetpub\\wwwroot\\TEstWebAPI2'
    }
   }
  }
