@@ -34,7 +34,7 @@ pipeline {
     bat 'dotnet publish --output C:\\inetpub\\wwwroot\\TEstWebAPI'
    }
   }
-  stage('Publish-Customer') {
+  stage('Publish-Customer1') {
    steps {
     bat 'dotnet publish --output C:\\inetpub\\wwwroot\\TEstWebAPI2'
    }
