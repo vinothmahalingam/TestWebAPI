@@ -36,7 +36,7 @@ pipeline {
   }
   stage('Publish-Customer1') {
    steps {
-    bat 'dotnet publish --output C:\\inetpub\\wwwroot\\TEstWebAPI2'
+    bat 'dotnet publish --output file://ICPU0151//JenkinsTest'
    }
   }
  }
